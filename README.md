@@ -1,4 +1,4 @@
-Accurate Pest Detection Project — Sentinel-2 (GEE) + Streamlit Demo
+Accurate Pest Detection Project — Sentinel-2 (GEE)
 
 Overview:
 This package provides a local Streamlit app that accepts a field polygon (GeoJSON) and runs an NDVI-anomaly-based
