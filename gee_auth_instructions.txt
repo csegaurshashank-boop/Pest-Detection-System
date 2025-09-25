@@ -1,0 +1,6 @@
+Earth Engine Authentication (quick)
+1. Install earthengine-api: pip install earthengine-api
+2. Authenticate: earthengine authenticate
+   - Follow the link in terminal, allow access, paste code back to terminal.
+3. Initialize in Python: import ee; ee.Initialize()
+4. Then run the Streamlit app: streamlit run app.py
